@@ -1,0 +1,7 @@
+.Content_default{
+    display: none;
+}
+
+.Content_active{
+    display: block;
+}
